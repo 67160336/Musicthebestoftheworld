@@ -78,4 +78,3 @@ if model is not None:
                 st.write(f"- {genre_name}: {probabilities[i]*100:.2f}%")
 
 st.divider()
-st.caption("จัดทำโดย: [ชื่อของคุณ] | Powered by Support Vector Machine (SVM)")
