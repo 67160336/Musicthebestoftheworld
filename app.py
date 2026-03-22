@@ -7,7 +7,7 @@ import numpy as np
 # 1. ตั้งค่าหน้าเว็บ (Aesthetic Upgrade สไตล์ )
 # ==========================================
 st.set_page_config(
-    page_title="Musi Music | The Best of The World", 
+    page_title=" Music Genre AI Predictor | The Best of The World", 
     page_icon="🎧",  
     layout="wide" 
 )
@@ -67,7 +67,7 @@ st.markdown("""
     }
 </style>
 <div class="big-header">
-    <h1>🎧 Music Genre AI Predictor</h1>
+    <h1>🎧 Musi Music Predictor</h1>
     <p>Predict genre and discover top hits in that style!</p>
 </div>
 """, unsafe_allow_html=True)
