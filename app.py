@@ -108,7 +108,7 @@ if model is not None and le is not None:
         if not submit:
             # ก่อนกดปุ่ม ให้แสดงรูปภาพต้อนรับ
             st.info("👈 ปรับจังหวะดนตรีด้านซ้าย แล้วกดปุ่มเพื่อดูผลลัพธ์!")
-            st.image("https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop", caption="Photo by Unsplash")
+            st.image(""C:\Users\Admin\Downloads\S__43900950.jpg"", caption="Photo by Unsplash")
             
         else:
             # เมื่อกดปุ่ม วิเคราะห์และทายผล
