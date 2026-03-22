@@ -68,7 +68,7 @@ st.markdown("""
 </style>
 <div class="big-header">
     <h1>🎧 Musi Music Predictor</h1>
-    <p>Predict genre and discover top hits in that style!</p>
+    <p>ทำนายแนวเพลงและแนะนำเพลง</p>
 </div>
 """, unsafe_allow_html=True)
 
