@@ -108,7 +108,7 @@ if model is not None and le is not None:
         if not submit:
             # ก่อนกดปุ่ม ให้แสดงรูปภาพต้อนรับ
             st.info("👈 ปรับจังหวะดนตรีด้านซ้าย แล้วกดปุ่มเพื่อดูผลลัพธ์!")
-            st.image("My_pic.jpg", caption="แอปแนะนำเพลงของฉัน 🎧", width=200)
+            st.image("My_pic.jpg", caption="แอปแนะนำเพลงของฉัน 🎧", width=300)
             
         else:
             # เมื่อกดปุ่ม วิเคราะห์และทายผล
