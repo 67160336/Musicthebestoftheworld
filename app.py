@@ -4,7 +4,7 @@ import joblib
 import numpy as np
 
 # ==========================================
-# 1. ตั้งค่าหน้าเว็บ (Aesthetic Upgrade สไตล์ Netflix)
+# 1. ตั้งค่าหน้าเว็บ (Aesthetic Upgrade สไตล์ )
 # ==========================================
 st.set_page_config(
     page_title="Music Genre AI | The Best of The World", 
