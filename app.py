@@ -7,7 +7,7 @@ import numpy as np
 # 1. ตั้งค่าหน้าเว็บ (Aesthetic Upgrade สไตล์ )
 # ==========================================
 st.set_page_config(
-    page_title=" Music Genre AI Predictor | The Best of The World", 
+    page_title=" Spotify Predictor | The Best of The World", 
     page_icon="🎧",  
     layout="wide" 
 )
