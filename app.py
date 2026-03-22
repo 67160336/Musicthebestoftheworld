@@ -67,7 +67,7 @@ st.markdown("""
     }
 </style>
 <div class="big-header">
-    <h1>🎧 Musi Music Predictor</h1>
+    <h1>🎧 Spotify Predictor</h1>
     <p>ทำนายแนวเพลงและแนะนำเพลง</p>
 </div>
 """, unsafe_allow_html=True)
